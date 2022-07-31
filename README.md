@@ -16,7 +16,7 @@ Esse é um projeto criado para ilustrar uma Pokedex, onde podemos consultar dive
 ## 🚀 O projeto
 
 <p align="center">
-  <img width="1000" height="550" src="videos/Pokedex.gif">
+  <img width="800" height="550" src="videos/Pokedex.gif">
 </p>
 
 ## 📧 Contatos
